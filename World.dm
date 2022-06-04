@@ -31,6 +31,7 @@ mob {
 	}
 	verb {
 		Restart_World() {
+			world << "Rebooting the world...";
 			world.Reboot();
 		}
 	}
