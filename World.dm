@@ -27,6 +27,7 @@ mob {
 	Login() {
 		usr.density = 0
 		usr.loc = locate(round(world.maxx / 2), round(world.maxy / 2), 1);
+		world << "<b><font color = purple>Welcome to the game!";
 	}
 	verb {
 		Restart_World() {

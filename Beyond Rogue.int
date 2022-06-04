@@ -6,6 +6,6 @@ AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1527
 WINDOW: Beyond Rogue.dm;grass.dmi;water.dmi;sand.dmi;turf.dm;IslandGenerationHandler.dm;World.dm;Beyond Rogue.dme;World.dmm;water_overlay.dmi;shrubbery.dmi
-FILE: IslandGenerationHandler.dm
+FILE: World.dm
 */
 // END_INTERNALS
